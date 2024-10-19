@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bf5DVcFgNZsPA3d7O36JTVHYAVGW9VyPo0Jl0Z2inw8=",
+  "Source": "Helix.API",
+  "BasePath": "_content/Helix.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
